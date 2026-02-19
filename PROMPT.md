@@ -1,4 +1,4 @@
-**@MINIONS/AGENTS — AGENT STUDIO**
+**MINIONS AGENTS — AGENT STUDIO**
 
 You are tasked with creating the complete initial foundation for **Agent Studio** — a comprehensive agent design, testing, memory management, orchestration, and benchmarking system built on the Minions SDK.
 
