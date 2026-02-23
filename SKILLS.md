@@ -1,6 +1,12 @@
 ---
 name: minions-agents
-description: Agent definitions, runs, traces, and approval requests for the agent fleet
+id: OC-0102
+version: 1.0.0
+description: "Agent definitions, runs, traces, and approval requests for the agent fleet"
+category: ai
+subcategory: general
+tags: ["minion", "ai", "general"]
+comments:
 ---
 
 # minions-agents — Agent Skills
