@@ -6,3 +6,4 @@ description: "Agent definitions, runs, traces, and approval requests for the age
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox
