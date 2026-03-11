@@ -1,0 +1,8 @@
+name: "@minions-agents/sdk"
+project_scope: child
+child_type: sdk
+parent_project: minions-agents-workspace
+description: "Agent definitions, runs, traces, and approval requests for the agent fleet"
+priority: high
+deploy_url: null
+tags: null

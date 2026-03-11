@@ -1,0 +1,8 @@
+name: "@minions-agents/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-agents-workspace
+description: "CLI for minions-agents — Agent definitions, runs, traces, and approval requests for the agent fleet"
+priority: high
+deploy_url: null
+tags: null

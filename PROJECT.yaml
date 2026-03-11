@@ -1,0 +1,15 @@
+name: minions-agents-workspace
+project_scope: main
+project_type: monorepo
+description: "Agent definitions, runs, traces, and approval requests for the agent fleet"
+tier: idea
+lane: minions
+priority: medium
+oss: true
+stack: [typescript]
+repo: "https://github.com/mxn2020/minions-agents"
+deploy_url: null
+last_active: 2026-02-23
+tags: [minion, toolbox, ai-agent, automation, minions, agents]
+notes: null
+id: 58e8066e-61dc-495c-8a94-10850e0e9e64

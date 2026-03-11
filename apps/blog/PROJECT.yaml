@@ -1,0 +1,8 @@
+name: minions-agents-blog
+project_scope: child
+child_type: blog
+parent_project: minions-agents-workspace
+description: Standard compliance definition for minions-agents-blog
+priority: high
+deploy_url: null
+tags: null

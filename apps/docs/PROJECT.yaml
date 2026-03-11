@@ -1,0 +1,8 @@
+name: minions-agents-docs
+project_scope: child
+child_type: docs
+parent_project: minions-agents-workspace
+description: Standard compliance definition for minions-agents-docs
+priority: high
+deploy_url: null
+tags: null
