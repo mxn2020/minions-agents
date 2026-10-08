@@ -1,6 +1,6 @@
 {
   "name": "@minions-agents/sdk",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Agent definitions, runs, traces, and approval requests for the agent fleet",
   "type": "module",
   "main": "./dist/index.js",
